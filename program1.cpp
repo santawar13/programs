@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 bool palidrom(string);
-//Task
+//Task 1
 int main() {
 	string x;
 	cin>>x;
